@@ -16,6 +16,7 @@ public class HelloWorld extends Application {
     @Override
     public void start(Stage primaryStage) {
     	System.out.println("afs3 kman mra");
+    	System.out.println("fs3et?");
         primaryStage.setTitle("Hello World!");
         Button btn = new Button();
         btn.setText("Say 'Hello World'");
